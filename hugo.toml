@@ -4,7 +4,9 @@ baseURL = 'https://example.com/'
 title = 'Petiteau Jean-Jack'
 theme = 'hugo-book'
 
-
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [params]
   BookTheme = 'light'
