@@ -1,0 +1,19 @@
+# hugo server --minify --themesDir ../.. --baseURL=http://0.0.0.0:1313/theme/hugo-book/
+
+baseURL = 'https://example.com/'
+title = 'Petiteau Matthieu'
+theme = 'hugo-book'
+
+
+
+[params]
+  BookTheme = 'light'
+  BookToC = true
+  BookFavicon = 'favicon.png'
+  BookSection = '/'
+  BookDateFormat = 'January 2, 2006'
+  BookSearch = false
+  BookComments = false
+  BookPortableLinks = false
+  BookServiceWorker = false
+  BookTranslatedOnly = false

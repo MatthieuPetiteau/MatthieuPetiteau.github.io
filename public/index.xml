@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction on Petiteau Matthieu</title><link>http://localhost:1313/</link><description>Recent content in Introduction on Petiteau Matthieu</description><generator>Hugo</generator><language>en</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>CV</title><link>http://localhost:1313/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/cv/</guid><description>&lt;h1 id="cv">
+ CV
+ &lt;a class="anchor" href="#cv">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="education">
+ Education
+ &lt;a class="anchor" href="#education">#&lt;/a>
+&lt;/h2>
+&lt;hr>
+&lt;ul>
+&lt;li>&lt;strong>PhD in Graph Theory&lt;/strong> &lt;em>(ongoing)&lt;/em>&lt;br>
+&lt;em>Grenoble-Alpes University, 2023-2026&lt;/em>&lt;/li>
+&lt;li>&lt;strong>Engineer&amp;rsquo;s degree in Informatics and Applied Mathematics&lt;/strong>&lt;br>
+&lt;em>Grenoble-INP, Ensimag, 2020-2023&lt;/em>&lt;/li>
+&lt;li>&lt;strong>Master’s degree in ”Operations Research, Combinatorics and Optimization”&lt;/strong>&lt;br>
+&lt;em>Grenoble-Alpes University, 2022-2023&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="other-experiences">
+ Other Experiences
+ &lt;a class="anchor" href="#other-experiences">#&lt;/a>
+&lt;/h2>
+&lt;hr>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Research Internship in graph theory&lt;/strong>&lt;br>
+&lt;em>Institut Fourier, 5 month, 2023&lt;/em>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Internship to improve the debugging tools of Alma Nesting team&lt;/strong>&lt;br>
+&lt;em>Alma, 3 month, 2022&lt;/em>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Software project, development of a compiler for a sub-language of Java&lt;/strong>&lt;br>
+&lt;em>Ensimag, 1 month, 2022&lt;/em>&lt;/p></description></item><item><title>Publications</title><link>http://localhost:1313/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/publications/</guid><description>&lt;h1 id="publications">
+ Publications
+ &lt;a class="anchor" href="#publications">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="submitted-papers">
+ Submitted papers
+ &lt;a class="anchor" href="#submitted-papers">#&lt;/a>
+&lt;/h2>
+&lt;hr>
+&lt;blockquote>
+&lt;p>&lt;strong>Note about the complexity of the acyclic orientation with parity constraint problem&lt;/strong>&lt;br>
+&lt;em>with &lt;a href="https://www.researchgate.net/profile/Sylvain-Gravier">S. Gravier&lt;/a> and &lt;a href="https://isivigno.github.io">I. Sivignon&lt;/a>&lt;/em>&lt;br>
+&lt;a href="https://hal.science/hal-05044650v1">Hal&lt;/a>, &lt;a href="https://arxiv.org/abs/2504.20935">arXiv&lt;/a>&lt;/p>&lt;/blockquote></description></item><item><title>Teachings</title><link>http://localhost:1313/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/teaching/</guid><description>&lt;h2 id="education">
+ Education
+ &lt;a class="anchor" href="#education">#&lt;/a>
+&lt;/h2>
+&lt;hr>
+&lt;ul>
+&lt;li>&lt;strong>Doctoral course : Training in higher education teaching&lt;/strong>&lt;br>
+&lt;em>Grenoble-Alpes University, 60h&lt;/em>&lt;/li>
+&lt;li>&lt;strong>Doctoral course : Animation of scientific debates&lt;/strong>&lt;br>
+&lt;em>Grenoble-Alpes University, 21h&lt;/em>&lt;/li>
+&lt;li>&lt;strong>Doctoral course : Workshop &amp;ldquo;Math à Modeler&amp;rdquo;&lt;/strong>&lt;br>
+&lt;em>Grenoble-Alpes University, 20h&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="teachings">
+ Teachings
+ &lt;a class="anchor" href="#teachings">#&lt;/a>
+&lt;/h2>
+&lt;hr>
+&lt;p>&lt;strong>Temporary teaching assistant&lt;/strong> &lt;em>(Vacataire chargé de TD)&lt;/em>&lt;br>
+&lt;em>Grenoble-Alpes University, 2023-2026&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>L1 Engineer science :
+&lt;ul>
+&lt;li>MAT102 : &amp;ldquo;Engineer Mathematics&amp;rdquo; : basic of algebra and analysis (42h, Class-TD)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>L1 Environment science :
+&lt;ul>
+&lt;li>MAT102 : &amp;ldquo;Engineer Mathematics&amp;rdquo; : basic of algebra and analysis (30h, Class-TD)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>L2 Informatics :
+&lt;ul>
+&lt;li>INF302 ”Automata and Formal Languages” : Finite Automata and Regular Expression (27h, TD)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Mentoring&lt;/strong>&lt;br>
+&lt;em>Grenoble-Alpes University, 2019&lt;/em>&lt;/p></description></item></channel></rss>
