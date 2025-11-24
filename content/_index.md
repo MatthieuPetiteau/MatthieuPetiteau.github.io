@@ -40,7 +40,9 @@ I am also well-versed in teaching and take great pleasure in sharing mathematics
 
 ## Talks
 ---
-- [Journées Graphes et Algorithmes](https://www.irif.fr/~jga2025) *JGA 2025* (Paris, France), 18-21 November, 2025 **Constrained acyclic orientations of grids** <a href="/files/soumissionJGA25.pdf" target="_blank"> <img src="/icons/pdf-icon.png" style="width:20px;"/> </a>
+- [Journées Graphes et Algorithmes](https://www.irif.fr/~jga2025) *JGA 2025* (Paris, France), 18-21 November, 2025 **Constrained acyclic orientations of grids** {{< rawhtml >}}
+<a href="/files/soumissionJGA25.pdf" target="_blank"> <img src="/icons/pdf-icon.png" style="width:20px;"/> </a> {{< /rawhtml >}}
+
 
 - [Journées Math à Modeler](https://mathsamodeler.ujf-grenoble.fr) (*Institut Fourier*, Grenoble, France), 30-31 October, 2025, **Couplages parfaits et algorithmes randomisés**
 
