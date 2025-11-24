@@ -12,7 +12,6 @@ France
 
 **Phone :** +33 (0) 4 76 51 46 64  
 **Mail (institution):** matthieu.petiteau@univ-grenoble-alpes.fr  
-**Mail (research):** matthieu.petiteau.if@gmail.com
 {{< rawhtml >}}
 <div style="display: flex; gap: 1rem; margin-top: 1em;">
   <a href="https://github.com/MatthieuPetiteau" target="_blank" style="text-decoration: none;">
