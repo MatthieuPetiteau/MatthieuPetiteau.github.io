@@ -40,28 +40,29 @@ I am also well-versed in teaching and take great pleasure in sharing mathematics
 
 ## Talks
 ---
-- [Journées Graphes et Algorithmes](https://www.irif.fr/~jga2025) *JGA 2025* (Paris, France), 18-21 November, 2025 **Constrained acyclic orientations of grids** 
-
-
-- {{< rawhtml >}}
+- [Journées Graphes et Algorithmes](https://www.irif.fr/~jga2025) *JGA 2025* (Paris, France), 18-21 November, 2025 **Constrained acyclic orientations of grids** {{< rawhtml >}}
 <a href="/files/soumissionJGA25.pdf" target="_blank"> <img src="/icons/pdf-icon.png" style="width:20px;"/> </a> {{< /rawhtml >}}
 
 
 - [Journées Math à Modeler](https://mathsamodeler.ujf-grenoble.fr) (*Institut Fourier*, Grenoble, France), 30-31 October, 2025, **Couplages parfaits et algorithmes randomisés**
 
-- [European Conference on Combinatorics](https://site.pheedloop.com/event/Eurocomb25/home) *Eurocomb'2025* (Budapest, France), 25-29 August, 2025, **Graph reconstruction from queries on triples** <a href="/files/soumissionEurocomb.pdf" target="_blank"> <img src="/icons/pdf-icon.png" style="width:20px;"/> </a>
+- [European Conference on Combinatorics](https://site.pheedloop.com/event/Eurocomb25/home) *Eurocomb'2025* (Budapest, France), 25-29 August, 2025, **Graph reconstruction from queries on triples** {{< rawhtml >}} <a href="/files/soumissionEurocomb.pdf" target="_blank"> <img src="/icons/pdf-icon.png" style="width:20px;"/> </a> {{< /rawhtml >}}
 
-- [Combinatorial-Optimisation Team Seminar](https://g-scop.grenoble-inp.fr/en/research/combinatorial-optimisation) (*G-SCOP*, Grenoble, France), 10 July, 2025 **Graph reconstruction from queries on triples of vertices** <a href="https://oc.g-scop.grenoble-inp.fr/index.php?page=124" target="_blank"> <img src="/icons/hyperlink-icon.png" style="width:20px;"/> </a>
+- [Combinatorial-Optimisation Team Seminar](https://g-scop.grenoble-inp.fr/en/research/combinatorial-optimisation) (*G-SCOP*, Grenoble, France), 10 July, 2025 **Graph reconstruction from queries on triples of vertices** {{< rawhtml >}} <a href="https://oc.g-scop.grenoble-inp.fr/index.php?page=124" target="_blank"> <img src="/icons/hyperlink-icon.png" style="width:20px;"/> </a> {{< /rawhtml >}}
 
-- [Questions de Pédagogies dans l'Enseignement Supérieur](https://colloque-pedagogie.org/brest2025/) *QPES 2025* (Brest, France), 19-23 May, 2025, **Retour d'expérience : Demande de feedback en travail individuel et collectif** <a href="https://www.conftool.com/qpes2025/index.php?page=browseSessions&form_session=6#paperID188" target="_blank"> <img src="/icons/hyperlink-icon.png" style="width:20px;"/> </a> <a href="/files/soumissionQPES.pdf" target="_blank"> <img src="/icons/pdf-icon.png" style="width:20px;"/> </a>
+- [Questions de Pédagogies dans l'Enseignement Supérieur](https://colloque-pedagogie.org/brest2025/) *QPES 2025* (Brest, France), 19-23 May, 2025, **Retour d'expérience : Demande de feedback en travail individuel et collectif** 
+ {{< rawhtml >}} 
+  <a href="https://www.conftool.com/qpes2025/index.php?page=browseSessions&form_session=6#paperID188" target="_blank"> <img src="/icons/hyperlink-icon.png" style="width:20px;"/> </a> 
+  <a href="/files/soumissionQPES.pdf" target="_blank"> <img src="/icons/pdf-icon.png" style="width:20px;"/> </a> 
+  {{< /rawhtml >}}
 
 - Journée des Doctorants (*Institut Fourier*, Grenoble, France), 13 March, 2025, **On graph reconstruction**
 
 - [Journées Math à Modeler](https://mathsamodeler.ujf-grenoble.fr) (*HEP-VS*, Saint Maurice, Suisse), 27-29 November, 2024, **Orientation contrainte de graphes**
 
-- [Journées Graphes et Algorithmes](https://jga2024.sciencesconf.org) *JGA 2024* (Dijon, France), 19-22 November, 2024, **About the complexity of the acyclic orientation with parity constraint problem** <a href="/files/soumissionJGA24.pdf" target="_blank"> <img src="/icons/pdf-icon.png" style="width:20px;"/> </a>
+- [Journées Graphes et Algorithmes](https://jga2024.sciencesconf.org) *JGA 2024* (Dijon, France), 19-22 November, 2024, **About the complexity of the acyclic orientation with parity constraint problem** {{< rawhtml >}} <a href="/files/soumissionJGA24.pdf" target="_blank"> <img src="/icons/pdf-icon.png" style="width:20px;"/> </a> {{< /rawhtml >}}
 
-- [GaLac Team Seminar](https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/) (*LISN*, Paris, France), 24 May, 2024 **About the complexity of the acyclic orientation with parity constraint problem** <a href="https://galac.lri.fr/fr/2024-05-24-team-seminar-en.html" target="_blank"> <img src="/icons/hyperlink-icon.png" style="width:20px;"/> </a>
+- [GaLac Team Seminar](https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/) (*LISN*, Paris, France), 24 May, 2024 **About the complexity of the acyclic orientation with parity constraint problem** {{< rawhtml >}} <a href="https://galac.lri.fr/fr/2024-05-24-team-seminar-en.html" target="_blank"> <img src="/icons/hyperlink-icon.png" style="width:20px;"/> </a> {{< /rawhtml >}}
 
 ## Workshop, Conferences and other events
 ---
