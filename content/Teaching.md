@@ -14,6 +14,11 @@ bookToc: True
 
 ## Teachings
 ---
+**Management of a research project**
+*Centrale Supelec*
+- M2 Research careers (Filière métiers de la recherche) (20h) {< rawhtml >}}
+<a href="https://www.centralesupelec.fr/filieres-metiers#:~:text=La%20filière%20recherche%20vise%20à,et%20sociétales%20de%20la%20recherche." target="_blank"> <img src="/icons/hyperlink-icon.png" style="width:20px;"/> </a> {{< /rawhtml >}}
+
 **Temporary teaching assistant** *(Vacataire chargé de TD)*  
 *Grenoble-Alpes University, 2023-2026*
 - L1 Engineer science :
