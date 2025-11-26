@@ -14,9 +14,9 @@ bookToc: True
 
 ## Teachings
 ---
-**Management of a research project**
+**Management of a research project**  
 *Centrale Supelec, 2025*
-- M2 Research careers (Filière métiers de la recherche) (20h) {{< rawhtml >}}
+- M2 Research careers (20h) {{< rawhtml >}}
 <a href="https://www.centralesupelec.fr/filieres-metiers#:~:text=La%20filière%20recherche%20vise%20à,et%20sociétales%20de%20la%20recherche." target="_blank"> <img src="/icons/hyperlink-icon.png" style="width:20px;"/> </a> {{< /rawhtml >}}
 
 **Temporary teaching assistant** *(Vacataire chargé de TD)*  
