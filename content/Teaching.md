@@ -22,9 +22,9 @@ bookToc: True
 **Temporary teaching assistant** *(Vacataire chargé de TD)*  
 *Grenoble-Alpes University, 2023-2026*
 - L1 Engineer science :
-    - MAT102 : "Engineer Mathematics" : basic of algebra and analysis (42h, Class-TD)
+    - MAT102 : "Engineer Mathematics" : Basic of algebra and analysis (42h, Class-TD)
 - L1 Environment science :
-    - MAT102 : "Engineer Mathematics" : basic of algebra and analysis (30h, Class-TD)
+    - MAT102 : "Engineer Mathematics" : Basic of algebra and analysis (30h, Class-TD)
 - L2 Informatics :
     - INF302 ”Automata and Formal Languages” : Finite Automata and Regular Expression (27h, TD)
 
