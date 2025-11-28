@@ -40,6 +40,6 @@ bookToc: True
 *Grenoble and its surroundings, Paris, Bordeaux, Marseille and Saint-Maurice, 2023-*  
 Outreach activities aimed at diverse audiences to explore and think over actual research problems through material manipulations.
 - Classroom workshop : *Middle School "Sainte-Marie Lyon"*&nbsp; La Verpillière (2025)
-- Booth : *"Salon des jeux mathématiques"*&nbsp; Paris (2025,2024,2023); *"Festival Remue-Méninge"*&nbsp; Grenoble (2025,2024,2023); *"Fête de la science"*&nbsp; Valence (2024,2023)
+- Booth : *"Salon des jeux mathématiques"*&nbsp; Paris (2025,2024,2023); *"Festival Remue-Méninge"*&nbsp; Grenoble (2025,2024,2023); *"Fête de la science"*&nbsp; Valence (2024,2023), Grenoble (2025)
 
 
