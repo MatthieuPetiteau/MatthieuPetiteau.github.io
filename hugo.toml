@@ -24,3 +24,5 @@ theme = 'hugo-book'
 name = "Introduction"
 url = "/"
 weight = 1
+bookToc = True
+
