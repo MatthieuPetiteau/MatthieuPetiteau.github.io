@@ -1,6 +1,6 @@
 # hugo server --minify --themesDir ../.. --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL = 'https://example.com/'
+baseURL = 'https://matthieupetiteau.github.io/'
 title = 'Petiteau Matthieu'
 theme = 'hugo-book'
 
@@ -19,3 +19,8 @@ theme = 'hugo-book'
   BookPortableLinks = false
   BookServiceWorker = false
   BookTranslatedOnly = false
+
+[[menu.main]]
+name = "Introduction"
+url = "/"
+weight = 1
