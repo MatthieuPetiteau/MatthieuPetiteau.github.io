@@ -3,7 +3,6 @@ bookFlatSection: true
 title: Introduction
 bookToc: True
 ---
-# INTRO
 ## Contact
 Petiteau Matthieu  
 Laboratoire Institut Fourier, bureau H305  
