@@ -1,15 +1,10 @@
 ---
-title: CV
-weight: 20
-bookToc: True
+title: "Curriculum vitae"
+date: 2025-12-10
 ---
-
-# CV {{< rawhtml >}} <a href="/files/CV.pdf" target="_blank"> <img src="/icons/pdf-icon.png" style="width:20px;"/> </a> {{< /rawhtml >}}
-  
 
 ## Education
----
-- **PhD in Graph Theory** *(ongoing)*  
+- **PhD in Graph Theory** *(ongoing)*
 *Grenoble-Alpes University, 2023-2026*
 - **Engineer's degree in Informatics and Applied Mathematics**  
 *Grenoble-INP, Ensimag, 2020-2023*
@@ -18,9 +13,15 @@ bookToc: True
 
 
 
+## Publications
+> **Note about the complexity of the acyclic orientation with parity constraint problem**  
+> _with [S. Gravier](https://www.researchgate.net/profile/Sylvain-Gravier) and [I. Sivignon](https://isivigno.github.io)_  
+> [Hal](https://hal.science/hal-05044650v1), [arXiv](https://arxiv.org/abs/2504.20935)
+
+
+
 
 ## Other Experiences
----
 - **Research Internship in graph theory**  
 *Institut Fourier, 5 month, 2023*
 
@@ -36,5 +37,4 @@ bookToc: True
 
 - **Software project in C, graphic interface development**  
 *Ensimag, 1 month, 2021*
-
 
