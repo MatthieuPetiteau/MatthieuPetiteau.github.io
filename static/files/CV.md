@@ -13,11 +13,13 @@ weight = 1 -->
 <!-- pandoc CV.md -o CV.pdf -V geometry:margin=2cm -->
 
 ## Education
-- **PhD in Graph Theory** *(ongoing)*
+> **PhD in Graph Theory** *(ongoing)*
 *Grenoble-Alpes University, 2023-2026*
-- **Engineer's degree in Informatics and Applied Mathematics**  
+
+> **Engineer's degree in Informatics and Applied Mathematics**
 *Grenoble-INP, Ensimag, 2020-2023*
-- **Master’s degree in ”Operations Research, Combinatorics and Optimization”**  
+
+> **Master’s degree in ”Operations Research, Combinatorics and Optimization”**  
 *Grenoble-Alpes University, 2022-2023*
 
 
@@ -29,35 +31,40 @@ weight = 1 -->
 
 
 ## Talks
-- [Journées Graphes et Algorithmes](https://www.irif.fr/~jga2025) *JGA 2025* (Paris, France), 18-21 November, 2025, Talk : **Constrained acyclic orientations of grids**
+> [Journées Graphes et Algorithmes](https://www.irif.fr/~jga2025) *JGA 2025* (Paris, France), 18-21 November, 2025, Talk : **Constrained acyclic orientations of grids**
 
-- [European Conference on Combinatorics](https://site.pheedloop.com/event/Eurocomb25/home) *Eurocomb'2025* (Budapest, France), 25-29 August, 2025, Talk : **Graph reconstruction from queries on triples**
+> [European Conference on Combinatorics](https://site.pheedloop.com/event/Eurocomb25/home) *Eurocomb'2025* (Budapest, France), 25-29 August, 2025, Talk : **Graph reconstruction from queries on triples**
 
-- [Combinatorial-Optimisation Team Seminar](https://g-scop.grenoble-inp.fr/en/research/combinatorial-optimisation) (*G-SCOP*, Grenoble, France), 10 July, 2025 Talk : **Graph reconstruction from queries on triples of vertices**
+> [Combinatorial-Optimisation Team Seminar](https://g-scop.grenoble-inp.fr/en/research/combinatorial-optimisation) (*G-SCOP*, Grenoble, France), 10 July, 2025 Talk : **Graph reconstruction from queries on triples of vertices**
 
-- [Journées Graphes et Algorithmes](https://jga2024.sciencesconf.org) *JGA 2024* (Dijon, France), 19-22 November, 2024, Talk : **About the complexity of the acyclic orientation with parity constraint problem**
+> [Journées Graphes et Algorithmes](https://jga2024.sciencesconf.org) *JGA 2024* (Dijon, France), 19-22 November, 2024, Talk : **About the complexity of the acyclic orientation with parity constraint problem**
 
-- [Graphs and Complexity days 2025](https://oc.g-scop.grenoble-inp.fr/esperet/calamar/) (Lyon, France), 7-8 April, 2025
+> [Graphs and Complexity days 2025](https://oc.g-scop.grenoble-inp.fr/esperet/calamar/) (Lyon, France), 7-8 April, 2025
 
-- [GaLac Team Seminar](https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/) (*LISN*, Paris, France), 24 May, 2024, Talk : **About the complexity of the acyclic orientation with parity constraint problem**
+> [GaLac Team Seminar](https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/) (*LISN*, Paris, France), 24 May, 2024, Talk : **About the complexity of the acyclic orientation with parity constraint problem**
 
-- [Summer school Graphs and Algorithms](https://perso.ens-lyon.fr/edouard.bonnet/springSchool.htm) *EPIT 2024*, (Aussois, France), 13-17 May, 2024
+> [Summer school Graphs and Algorithms](https://perso.ens-lyon.fr/edouard.bonnet/springSchool.htm) *EPIT 2024*, (Aussois, France), 13-17 May, 2024
+
+
+## Supervision Experiences
+> **Management and leading of a research project**  
+*Centrale Supelec, 2025* - M2 Research careers
 
 
 ## Other Experiences
-- **Research Internship in graph theory**  
+> **Research Internship in graph theory**  
 *Institut Fourier, 5 month, 2023*
 
 
-- **Internship to improve the debugging tools of Alma Nesting team**  
+> **Internship to improve the debugging tools of Alma Nesting team**  
 *Alma, 3 month, 2022*
 
-- **Software project, development of a compiler for a sub-language of Java**  
+> **Software project, development of a compiler for a sub-language of Java**  
 *Ensimag, 1 month, 2022*
 
-- **Supply-chain internship**  
+> **Supply-chain internship**  
 *Schneider electric, 1 month, 2021*
 
-- **Software project in C, graphic interface development**  
+> **Software project in C, graphic interface development**  
 *Ensimag, 1 month, 2021*
 
