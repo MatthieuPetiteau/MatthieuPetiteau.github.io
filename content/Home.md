@@ -1,6 +1,6 @@
 ---
 title: Home
-weight: 1
+weight: 10
 bookToc: True
 ---
 

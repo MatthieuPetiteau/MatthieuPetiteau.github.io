@@ -20,5 +20,10 @@ theme = 'hugo-book'
   BookServiceWorker = false
   BookTranslatedOnly = false
 
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
 
 
