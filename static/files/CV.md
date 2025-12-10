@@ -3,6 +3,14 @@ title: "Curriculum vitae"
 date: 2025-12-10
 ---
 
+
+<!-- [[menu.main]]
+name = "Home"
+url = "/"
+weight = 1 -->
+
+<!-- pandoc CV.md -o CV.pdf -->
+
 ## Education
 - **PhD in Graph Theory** *(ongoing)*
 *Grenoble-Alpes University, 2023-2026*
@@ -19,6 +27,22 @@ date: 2025-12-10
 > [Hal](https://hal.science/hal-05044650v1), [arXiv](https://arxiv.org/abs/2504.20935)
 
 
+## Talks
+---
+- [Journées Graphes et Algorithmes](https://www.irif.fr/~jga2025) *JGA 2025* (Paris, France), 18-21 November, 2025 **Constrained acyclic orientations of grids** {{< rawhtml >}}
+<a href="/files/soumissionJGA25.pdf" target="_blank"> <img src="/icons/pdf-icon.png" style="width:20px;"/> </a> {{< /rawhtml >}}
+
+- [European Conference on Combinatorics](https://site.pheedloop.com/event/Eurocomb25/home) *Eurocomb'2025* (Budapest, France), 25-29 August, 2025, **Graph reconstruction from queries on triples** {{< rawhtml >}} <a href="/files/soumissionEurocomb.pdf" target="_blank"> <img src="/icons/pdf-icon.png" style="width:20px;"/> </a> {{< /rawhtml >}}
+
+- [Combinatorial-Optimisation Team Seminar](https://g-scop.grenoble-inp.fr/en/research/combinatorial-optimisation) (*G-SCOP*, Grenoble, France), 10 July, 2025 **Graph reconstruction from queries on triples of vertices** {{< rawhtml >}} <a href="https://oc.g-scop.grenoble-inp.fr/index.php?page=124" target="_blank"> <img src="/icons/hyperlink-icon.png" style="width:20px;"/> </a> {{< /rawhtml >}}
+
+- [Journées Graphes et Algorithmes](https://jga2024.sciencesconf.org) *JGA 2024* (Dijon, France), 19-22 November, 2024, **About the complexity of the acyclic orientation with parity constraint problem** {{< rawhtml >}} <a href="/files/soumissionJGA24.pdf" target="_blank"> <img src="/icons/pdf-icon.png" style="width:20px;"/> </a> {{< /rawhtml >}}
+
+- [Graphs and Complexity days 2025](https://oc.g-scop.grenoble-inp.fr/esperet/calamar/) (Lyon, France), 7-8 April, 2025
+
+- [GaLac Team Seminar](https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/) (*LISN*, Paris, France), 24 May, 2024 **About the complexity of the acyclic orientation with parity constraint problem** {{< rawhtml >}} <a href="https://galac.lri.fr/fr/2024-05-24-team-seminar-en.html" target="_blank"> <img src="/icons/hyperlink-icon.png" style="width:20px;"/> </a> {{< /rawhtml >}}
+
+- [Summer school Graphs and Algorithms](https://perso.ens-lyon.fr/edouard.bonnet/springSchool.htm) *EPIT 2024*, (Aussois, France), 13-17 May, 2024
 
 
 ## Other Experiences
