@@ -30,6 +30,7 @@ weight = 1 -->
 > [Hal](https://hal.science/hal-05044650v1), [arXiv](https://arxiv.org/abs/2504.20935)
 
 
+
 ## Talks
 > [Journées Graphes et Algorithmes](https://www.irif.fr/~jga2025) *JGA 2025* (Paris, France), 18-21 November, 2025, Talk : **Constrained acyclic orientations of grids**
 
@@ -51,6 +52,16 @@ weight = 1 -->
 *Centrale Supelec, 2025* - M2 Research careers
 
 
+## Diffusion of mathematics
+> **Member of the federation "[Math à Modeler](https://mathsamodeler.ujf-grenoble.fr)"**  
+*Grenoble and its surroundings, Paris, Bordeaux, Marseille and Saint-Maurice, 2023-*  
+Outreach activities aimed at diverse audiences to explore and think over actual research problems through material manipulations.
+
+> **Classroom workshop** : *Middle School "Sainte-Marie Lyon"*&nbsp; La Verpillière (2025)
+
+> **Booth** : *"Salon des jeux mathématiques"*&nbsp; Paris (2025,2024,2023); *"Festival Remue-Méninge"*&nbsp; Grenoble (2025,2024,2023); *"Fête de la science"*&nbsp;  Grenoble (2025), Valence (2024,2023)
+
+
 ## Other Experiences
 > **Research Internship in graph theory**  
 *Institut Fourier, 5 month, 2023*
@@ -67,4 +78,5 @@ weight = 1 -->
 
 > **Software project in C, graphic interface development**  
 *Ensimag, 1 month, 2021*
+
 
