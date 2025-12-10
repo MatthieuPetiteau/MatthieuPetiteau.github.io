@@ -21,8 +21,7 @@ theme = 'hugo-book'
   BookTranslatedOnly = false
 
 [[menu.main]]
-name = "Introduction"
+name = "Home"
 url = "/"
 weight = 1
-bookToc = True
 
