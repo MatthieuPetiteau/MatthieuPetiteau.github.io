@@ -22,7 +22,7 @@ theme = 'hugo-book'
 
 [[menu.main]]
 name = "Home"
-url = "/index.html"
+url = "/"
 weight = 1
 
 

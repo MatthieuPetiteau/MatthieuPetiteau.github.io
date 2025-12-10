@@ -10,7 +10,7 @@ name = "Home"
 url = "/"
 weight = 1 -->
 
-<!-- pandoc CV.md -o CV.pdf -->
+<!-- pandoc CV.md -o CV.pdf -V geometry:margin=2cm -->
 
 ## Education
 - **PhD in Graph Theory** *(ongoing)*
