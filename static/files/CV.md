@@ -10,7 +10,7 @@ name = "Home"
 url = "/"
 weight = 1 -->
 
-<!-- pandoc CV.md -o CV.pdf -V geometry:margin=2cm -->
+<!-- pandoc CV.md -o CV.pdf -V geometry:margin=2cm --pdf-engine=pdflatex -->
 
 ## Education
 > **PhD in Graph Theory** *(ongoing)*
@@ -23,18 +23,16 @@ weight = 1 -->
 *Grenoble-Alpes University, 2022-2023*
 
 
-
 ## Publications
 > **Note about the complexity of the acyclic orientation with parity constraint problem**  
-> _with [S. Gravier](https://www.researchgate.net/profile/Sylvain-Gravier) and [I. Sivignon](https://isivigno.github.io)_  
-> [Hal](https://hal.science/hal-05044650v1), [arXiv](https://arxiv.org/abs/2504.20935)
-
+> with [S. Gravier](https://www.researchgate.net/profile/Sylvain-Gravier) and [I. Sivignon](https://isivigno.github.io). *Accepted up to minor revision in Discrete Applied Mathematics on September 08 2025*.\
+> [\underline{Hal}](https://hal.science/hal-05044650v1) [\underline{arXiv}](https://arxiv.org/abs/2504.20935)
 
 
 ## Talks
 > [Journées Graphes et Algorithmes](https://www.irif.fr/~jga2025) *JGA 2025* (Paris, France), 18-21 November, 2025, Talk : **Constrained acyclic orientations of grids**
 
-> [European Conference on Combinatorics](https://site.pheedloop.com/event/Eurocomb25/home) *Eurocomb'2025* (Budapest, France), 25-29 August, 2025, Talk : **Graph reconstruction from queries on triples**
+> [European Conference on Combinatorics](https://site.pheedloop.com/event/Eurocomb25/home) *Eurocomb'2025* (Budapest, France), 25-29 August, 2025, Talk : **Graph reconstruction from queries on triples** [\underline{Hal}](https://hal.science/view/index/docid/5416454)
 
 > [Combinatorial-Optimisation Team Seminar](https://g-scop.grenoble-inp.fr/en/research/combinatorial-optimisation) (*G-SCOP*, Grenoble, France), 10 July, 2025 Talk : **Graph reconstruction from queries on triples of vertices**
 
@@ -53,7 +51,7 @@ weight = 1 -->
 
 
 ## Diffusion of mathematics
-> **Member of the federation "[Math à Modeler](https://mathsamodeler.ujf-grenoble.fr)"**  
+> **Member of the federation "[\underline{Math à Modeler}](https://mathsamodeler.ujf-grenoble.fr)"**  
 *Grenoble and its surroundings, Paris, Bordeaux, Marseille and Saint-Maurice, 2023-*  
 Outreach activities aimed at diverse audiences to explore and think over actual research problems through material manipulations.
 
